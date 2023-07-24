@@ -26,7 +26,7 @@ The game is built using React, a popular JavaScript library for building user in
 
 Demo:
 ------------------------------------------
-You can play the React Tic-Tac-Toe game by visiting [https://username.github.io/tictac-game](https://username.github.io/tictac-game).
+You can play the React Tic-Tac-Toe game by visiting [https://username.github.io/tictac-game](tictactoe-by-zubair.netlify.app).
 
 Contributions:
 ------------------------------------------
