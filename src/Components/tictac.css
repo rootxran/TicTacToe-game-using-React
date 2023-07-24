@@ -118,7 +118,7 @@ button {
     opacity: 0.8;
   }
  
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
     .container {
       padding: 10px;
     }
@@ -139,4 +139,4 @@ button {
       width: 70%;
       font-size: x-large;
     }
-  } */
+  }
