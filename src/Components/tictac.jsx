@@ -1,6 +1,6 @@
 import React from 'react'
-import { useState } from 'react'
 import "./tictac.css"
+import { useState } from 'react'
 import { MarkGithubIcon} from '@primer/octicons-react';
 
 function Square({value,onSquareClick}){
